@@ -2,12 +2,12 @@
 
 ###
 
-<p align="center">Full Stack & Blockchain developer</p>
+<h3 align="center">Full Stack & Blockchain developer</h3>
 
 ###
 
 <div align="center">
-  <img height="200" src="https://github.com/Nikolas9418/Nikolas9418/blob/main/coding.gif"  />
+  <img height="350" src="https://github.com/Nikolas9418/Nikolas9418/blob/main/coding.gif"  />
 </div>
 
 ###
