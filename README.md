@@ -70,9 +70,7 @@
 
 ###
 <h2 align="left">
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
-  How to reach me
-  <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px" />
+  🤝 How to reach me
 </h2>
 <br />
   <a href="mailto:nikolas.frey.9418@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
