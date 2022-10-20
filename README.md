@@ -72,7 +72,6 @@
 <h2 align="left">
   🤝 How to reach me
 </h2>
-<br />
   <a href="mailto:nikolas.frey.9418@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
   &nbsp;&nbsp;
   <a href="https://join.skype.com/invite/jHzHqt7G4AwA" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
