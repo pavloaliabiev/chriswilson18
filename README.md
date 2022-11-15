@@ -1,8 +1,8 @@
-<h1 align="center">👋Hi! I'm Nikolas.</h1>
+<h1 align="center">👋Hi! I'm Chris.</h1>
 
 ###
 
-<h3 align="center">Full Stack & Blockchain developer</h3>
+<h3 align="center">Full Stack developer</h3>
 
 ###
 
@@ -66,19 +66,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" width="52" alt="slack logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" width="52" alt="spring logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" width="52" alt="vuejs logo"  />
-</div>
-
-###
-<h2 align="left">
-  🤝 How to reach me
-</h2>
-  <a href="mailto:nikolas.frey.9418@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/fluency/2x/gmail-new.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://join.skype.com/invite/jHzHqt7G4AwA" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/skype.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://t.me/nikolas9418" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/telegram-app.png"  width="50" /></a>
-  &nbsp;&nbsp;
-  <a href="https://discord.gg/HEPHvySJ" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/color/2x/discord.png"  width="50" /></a>  
 </div>
 
 ###
