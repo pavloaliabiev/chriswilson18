@@ -16,15 +16,8 @@
 
 ###
 
-<p align="left">I'm a passionate Full-Stack web developer with 7 years of experience.<br>Having an experience of developing Full Stack web applications with Python, Django, React.js, Cloud Technologies and Blockchain development on Ethereum. <br>I have a strong interest in learning new technologies and implementing them in my projects. <br>I'm a self-motivated and hardworking individual who is always ready to learn new things and work in a team.<br>I am specialized in developing Full Stack Websites, Backend APIs and Blockchain Projects.</p>
-
-###
-
-<h2 align="left">😆 What I say</h2>
-
-###
-
-<p align="left">Coding! Without you, I'm just like a fish out of water.</p>
+<p align="left">As a Senior Full Stack Developer with 7 years of experience, I have the biggest experience in both frontend & backend development using MERN, MEVN stack, PHP Frameworks.
+I am always glad to dive deep into your needs and help you with your project development. Apart from the back-end development, I can be responsive to the needs of the front-end coding using JavaScript and its framework Vue.js.</p>
 
 ###
 
