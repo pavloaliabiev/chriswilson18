@@ -16,8 +16,19 @@
 
 ###
 
-<p align="left">As a Senior Full Stack Developer with 7 years of experience, I have the biggest experience in both frontend & backend development using MERN, MEVN stack, PHP Frameworks.
-I am always glad to dive deep into your needs and help you with your project development. Apart from the back-end development, I can be responsive to the needs of the front-end coding using JavaScript and its framework Vue.js.</p>
+<p align="left">As a Senior Full Stack Developer with 10+ years of experience, I have the biggest experience in both frontend & backend development using MERN, MEVN stack, PHP Frameworks.
+I am always glad to dive deep into your needs and help you with your project development. Apart from the back-end development, I can be responsive to the needs of the front-end coding using JavaScript and its framework Vue.js.
+
+My tech stack:
+- React, Vue, Angular, jQuery, D3.js, Bootstrap, HTML/CSS, Tailwind CSS
+- WordPress, Laravel, Code Ignitor, Java Spring, Node.js, Express.js
+- MySQL, PostgreSQL, MongoDB
+- SEO
+- AWS
+- Git, Jira, Trello
+- Jest, Mocha, Chai
+- NPM, Docker
+</p>
 
 ###
 
