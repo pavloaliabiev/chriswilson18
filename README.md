@@ -21,7 +21,7 @@ I am always glad to dive deep into your needs and help you with your project dev
 
 My tech stack:
 - React, Vue, Angular, jQuery, D3.js, Bootstrap, HTML/CSS, Tailwind CSS
-- WordPress, Drupal, Laravel, Code Ignitor, .NET, Java Spring, Node.js, Express.js
+- WordPress, Drupal, Laravel, Code Ignitor, Django, .NET, Java Spring, Node.js, Express.js
 - MySQL, PostgreSQL, MongoDB
 - SEO
 - AWS
